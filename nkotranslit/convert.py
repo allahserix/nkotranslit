@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Tapo, Seydou DIALLO et al. 11-10-2025
+Tapo, DIALLO, Assogba et al. 11-10-2025
 
 A self-contained, state-of-the-art Python script for bidirectional,
 rule-based conversion of Bambara text between Latin and N'Ko scripts.
